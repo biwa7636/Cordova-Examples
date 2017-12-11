@@ -44,23 +44,26 @@ Note: I may have skipped a few commands when I first started the environment, li
 ```
 cordova emulate browser
 ```
-![browser](/resources/screenshots/readme_browser.png)
+
+<a href="/resources/screenshots/readme_browser.png"><img width="150" src="/resources/screenshots/readme_browser.png" align="middle"></a>
+
+
 ### - option2: Phone Emulator
 ```
 cordova emulate ios
 ```
-![ios](/resources/screenshots/readme_ios.png)
+
+<a href="/resources/screenshots/readme_ios.png"><img width="150" src="/resources/screenshots/readme_ios.png" align="middle"></a>
+
 
 ### - option3: Device
 
 There are several ways to deploy application to a device, my favorite way so far is to use phonegap so that I can avoid hassles like [here](https://stackoverflow.com/questions/30736932/xcode-error-could-not-find-developer-disk-image), [here](https://stackoverflow.com/questions/39501020/code-sign-error-on-xcode-8-and-ios-10-cordova-project) and [here](https://stackoverflow.com/questions/18727894/how-can-i-find-my-apple-developer-team-id-and-team-agent-apple-id) just for the purpose of playing without getting too serious. 
 
 There is application loaded at this stage
-![empty](/resources/screenshots/readme_phonegapdesktop_empty.png)
 Add an existing project by pointing to the myApp folder, start and remember the address
-![load][/resources/screenshots/readme_phonegapdesktop_empty.png]
 Download the phonegap from Appstore and point the app to the address above
-![download](/resources/screenshots/readme_device_phonegap.PNG)
 Successfully download and run smoothly on your phone
-![deployed](/resources/screenshots/readme_device_deployed.PNG)
 For more information, please refer to the official document of Phonegap DesktopApp/CLI
+
+<a href="/resources/screenshots/readme_phonegapdesktop_empty.png"><img width="150" src="/resources/screenshots/readme_phonegapdesktop_empty.png" align="middle"></a><a href="/resources/screenshots/readme_phonegapdesktop_loaded.png"><img width="150" src="/resources/screenshots/readme_phonegapdesktop_loaded.png" align="middle"></a><a href="/resources/screenshots/readme_device_phonegap.PNG"><img width="150" src="/resources/screenshots/readme_device_phonegap.PNG" align="middle"></a><a href="/resources/screenshots/readme_device_deployed.PNG"><img width="150" src="/resources/screenshots/readme_device_deployed.PNG" align="middle"></a>
